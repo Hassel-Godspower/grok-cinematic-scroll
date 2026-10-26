@@ -33,16 +33,16 @@ export default function Home() {
 
           <div className="flex flex-col sm:flex-row items-center justify-center gap-4">
             <a
-              href="#demo"
+              href="/moniepoint"
               className="rounded-full bg-white px-8 py-3.5 text-sm font-semibold text-black transition hover:bg-white/90"
             >
-              Experience the Effect ↓
+              Moniepoint Card Story →
             </a>
             <a
-              href="/demo"
+              href="#demo"
               className="rounded-full border border-white/20 px-8 py-3.5 text-sm font-medium text-white/80 transition hover:bg-white/5"
             >
-              Full Immersive Demo
+              Classic Frame Demo
             </a>
           </div>
         </div>
